@@ -5,7 +5,7 @@ function App() {
 
   return (
     
-    <h1>hello erildo</h1>
+    <button className="bg-violet-500">clicar</button>
   )
 }
 
